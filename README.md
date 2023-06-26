@@ -1,7 +1,7 @@
 # freedompay
-freedompay iframe issue
+Freedompay iframe issue
 
-After cloniong the repo make sure to run npm i to intall the depanbancies 
+After cloning the repo make sure to run npm i to install the dependencies 
 
 Run npx cypress open to open cypress
 
