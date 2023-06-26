@@ -1,0 +1,22 @@
+{
+  "name": "freedompay",
+  "version": "1.0.0",
+  "description": "freedompay iframe issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-vovk/freedompay.git"
+  },
+  "author": "Bogdan Vovk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-vovk/freedompay/issues"
+  },
+  "homepage": "https://github.com/b-vovk/freedompay#readme",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
